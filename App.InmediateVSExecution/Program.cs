@@ -14,6 +14,9 @@ namespace App.InmediateVSExecution
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("Deferred execution");
+            Metodo1();
+            System.Console.WriteLine("Inmediate execution");
             Metodo2();
         }
 
@@ -28,8 +31,8 @@ namespace App.InmediateVSExecution
                 new Employee{ Emp_ID=5, Name="E"}
             });
             var res = from r in list select new { r.Emp_ID, r.Name };
-            list.Add(new Employee { Emp_ID = 8, Name = "H" });
-            list.Add(new Employee { Emp_ID = 9, Name = "I" });
+            list.Add(new Employee { Emp_ID = 6, Name = "H" });
+            list.Add(new Employee { Emp_ID = 7, Name = "I" });
             foreach (var item in res)
             {
                 System.Console.WriteLine(item.Emp_ID + " - " + item.Name);
@@ -46,8 +49,8 @@ namespace App.InmediateVSExecution
                 new Employee{ Emp_ID=5, Name="E"}
             });
             var res = from r in list.ToList() select new { r.Emp_ID, r.Name };
-            list.Add(new Employee { Emp_ID = 8, Name = "H" });
-            list.Add(new Employee { Emp_ID = 9, Name = "I" });
+            list.Add(new Employee { Emp_ID = 6, Name = "H" });
+            list.Add(new Employee { Emp_ID = 7, Name = "I" });
             foreach (var item in res)
             {
                 System.Console.WriteLine(item.Emp_ID + " - " + item.Name);
