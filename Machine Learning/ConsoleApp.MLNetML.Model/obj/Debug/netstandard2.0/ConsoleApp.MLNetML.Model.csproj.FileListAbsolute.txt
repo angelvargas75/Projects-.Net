@@ -1,0 +1,11 @@
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\bin\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.deps.json
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\bin\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.dll
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\bin\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.pdb
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\obj\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.csproj.AssemblyReference.cache
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\obj\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\obj\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.AssemblyInfoInputs.cache
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\obj\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.AssemblyInfo.cs
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\obj\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.csproj.CoreCompileInputs.cache
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\obj\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.dll
+D:\C#\Machine Learning\ConsoleApp.MLNetML.Model\obj\Debug\netstandard2.0\ConsoleApp.MLNetML.Model.pdb
