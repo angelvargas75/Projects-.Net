@@ -1,0 +1,16 @@
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\obj\Debug\net5.0\App.InmediateVSExecution.csproj.AssemblyReference.cache
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\obj\Debug\net5.0\App.InmediateVSExecution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\obj\Debug\net5.0\App.InmediateVSExecution.AssemblyInfoInputs.cache
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\obj\Debug\net5.0\App.InmediateVSExecution.AssemblyInfo.cs
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\obj\Debug\net5.0\App.InmediateVSExecution.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\bin\Debug\net5.0\App.InmediateVSExecution.exe
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\bin\Debug\net5.0\App.InmediateVSExecution.deps.json
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\bin\Debug\net5.0\App.InmediateVSExecution.runtimeconfig.json
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\bin\Debug\net5.0\App.InmediateVSExecution.runtimeconfig.dev.json
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\bin\Debug\net5.0\App.InmediateVSExecution.dll
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\bin\Debug\net5.0\ref\App.InmediateVSExecution.dll
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\bin\Debug\net5.0\App.InmediateVSExecution.pdb
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\obj\Debug\net5.0\App.InmediateVSExecution.dll
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\obj\Debug\net5.0\ref\App.InmediateVSExecution.dll
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\obj\Debug\net5.0\App.InmediateVSExecution.pdb
+C:\Users\ANGEL\desktop\App.InmediateVSExecution\obj\Debug\net5.0\App.InmediateVSExecution.genruntimeconfig.cache
