@@ -1,0 +1,15 @@
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\bin\Debug\net6.0\AppExamplePriorityQueue.exe
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\bin\Debug\net6.0\AppExamplePriorityQueue.deps.json
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\bin\Debug\net6.0\AppExamplePriorityQueue.runtimeconfig.json
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\bin\Debug\net6.0\AppExamplePriorityQueue.dll
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\bin\Debug\net6.0\ref\AppExamplePriorityQueue.dll
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\bin\Debug\net6.0\AppExamplePriorityQueue.pdb
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\obj\Debug\net6.0\AppExamplePriorityQueue.csproj.AssemblyReference.cache
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\obj\Debug\net6.0\AppExamplePriorityQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\obj\Debug\net6.0\AppExamplePriorityQueue.AssemblyInfoInputs.cache
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\obj\Debug\net6.0\AppExamplePriorityQueue.AssemblyInfo.cs
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\obj\Debug\net6.0\AppExamplePriorityQueue.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\obj\Debug\net6.0\AppExamplePriorityQueue.dll
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\obj\Debug\net6.0\ref\AppExamplePriorityQueue.dll
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\obj\Debug\net6.0\AppExamplePriorityQueue.pdb
+C:\Users\ANGEL\desktop\AppExamplePriorityQueue\obj\Debug\net6.0\AppExamplePriorityQueue.genruntimeconfig.cache
