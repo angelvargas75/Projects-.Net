@@ -1,0 +1,15 @@
+C:\Users\ANGEL\desktop\AppNullChecking\bin\Debug\net6.0\AppNullChecking.exe
+C:\Users\ANGEL\desktop\AppNullChecking\bin\Debug\net6.0\AppNullChecking.deps.json
+C:\Users\ANGEL\desktop\AppNullChecking\bin\Debug\net6.0\AppNullChecking.runtimeconfig.json
+C:\Users\ANGEL\desktop\AppNullChecking\bin\Debug\net6.0\AppNullChecking.dll
+C:\Users\ANGEL\desktop\AppNullChecking\bin\Debug\net6.0\ref\AppNullChecking.dll
+C:\Users\ANGEL\desktop\AppNullChecking\bin\Debug\net6.0\AppNullChecking.pdb
+C:\Users\ANGEL\desktop\AppNullChecking\obj\Debug\net6.0\AppNullChecking.csproj.AssemblyReference.cache
+C:\Users\ANGEL\desktop\AppNullChecking\obj\Debug\net6.0\AppNullChecking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\desktop\AppNullChecking\obj\Debug\net6.0\AppNullChecking.AssemblyInfoInputs.cache
+C:\Users\ANGEL\desktop\AppNullChecking\obj\Debug\net6.0\AppNullChecking.AssemblyInfo.cs
+C:\Users\ANGEL\desktop\AppNullChecking\obj\Debug\net6.0\AppNullChecking.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\desktop\AppNullChecking\obj\Debug\net6.0\AppNullChecking.dll
+C:\Users\ANGEL\desktop\AppNullChecking\obj\Debug\net6.0\ref\AppNullChecking.dll
+C:\Users\ANGEL\desktop\AppNullChecking\obj\Debug\net6.0\AppNullChecking.pdb
+C:\Users\ANGEL\desktop\AppNullChecking\obj\Debug\net6.0\AppNullChecking.genruntimeconfig.cache
