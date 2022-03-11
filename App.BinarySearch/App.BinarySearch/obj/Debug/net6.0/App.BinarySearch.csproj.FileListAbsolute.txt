@@ -1,0 +1,15 @@
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\bin\Debug\net6.0\App.BinarySearch.exe
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\bin\Debug\net6.0\App.BinarySearch.deps.json
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\bin\Debug\net6.0\App.BinarySearch.runtimeconfig.json
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\bin\Debug\net6.0\App.BinarySearch.dll
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\bin\Debug\net6.0\App.BinarySearch.pdb
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\App.BinarySearch.csproj.AssemblyReference.cache
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\App.BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\App.BinarySearch.AssemblyInfoInputs.cache
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\App.BinarySearch.AssemblyInfo.cs
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\App.BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\App.BinarySearch.dll
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\refint\App.BinarySearch.dll
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\App.BinarySearch.pdb
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\App.BinarySearch.genruntimeconfig.cache
+C:\Users\ANGEL\source\repos\App.BinarySearch\App.BinarySearch\obj\Debug\net6.0\ref\App.BinarySearch.dll
