@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="NorthwindModel2.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Products">
+    <Key>
+      <PropertyRef Name="ProductID" />
+    </Key>
+    <Property Name="ProductID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ProductName" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="SupplierID" Type="int" />
+    <Property Name="CategoryID" Type="int" />
+    <Property Name="QuantityPerUnit" Type="nvarchar" MaxLength="20" />
+    <Property Name="UnitPrice" Type="money" />
+    <Property Name="UnitsInStock" Type="smallint" />
+    <Property Name="UnitsOnOrder" Type="smallint" />
+    <Property Name="ReorderLevel" Type="smallint" />
+    <Property Name="Discontinued" Type="bit" Nullable="false" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'Northwind.dbo.Product_Category_Id' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Product_Category_Id">
+    <Key>
+      <PropertyRef Name="ProductID" />
+      <PropertyRef Name="CategoryName" />
+      <PropertyRef Name="ProductName" />
+      <PropertyRef Name="Discontinued" />
+    </Key>
+    <Property Name="ProductID" Type="int" Nullable="false" />
+    <Property Name="CategoryName" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="ProductName" Type="nvarchar" MaxLength="40" Nullable="false" />
+    <Property Name="QuantityPerUnit" Type="nvarchar" MaxLength="20" />
+    <Property Name="UnitsInStock" Type="smallint" />
+    <Property Name="Discontinued" Type="bit" Nullable="false" />
+  </EntityType>
+  <Function Name="sp_Product_Delete" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_Product_Insert" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="name" Type="varchar" Mode="In" />
+    <Parameter Name="unitPrice" Type="decimal" Mode="In" />
+  </Function>
+  <Function Name="sp_Product_Update" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+    <Parameter Name="name" Type="varchar" Mode="In" />
+    <Parameter Name="unitPrice" Type="decimal" Mode="In" />
+  </Function>
+  <Function Name="sp_ProductDetails" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="id" Type="int" Mode="In" />
+  </Function>
+  <EntityContainer Name="NorthwindModel2StoreContainer">
+    <EntitySet Name="Products" EntityType="Self.Products" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Product_Category_Id" EntityType="Self.Product_Category_Id" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Product_Category_Id].[ProductID] AS [ProductID], 
+    [Product_Category_Id].[CategoryName] AS [CategoryName], 
+    [Product_Category_Id].[ProductName] AS [ProductName], 
+    [Product_Category_Id].[QuantityPerUnit] AS [QuantityPerUnit], 
+    [Product_Category_Id].[UnitsInStock] AS [UnitsInStock], 
+    [Product_Category_Id].[Discontinued] AS [Discontinued]
+    FROM [dbo].[Product_Category_Id] AS [Product_Category_Id]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

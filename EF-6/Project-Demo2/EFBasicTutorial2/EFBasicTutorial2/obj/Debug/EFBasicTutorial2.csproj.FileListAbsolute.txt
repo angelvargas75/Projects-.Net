@@ -1,0 +1,12 @@
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\bin\Debug\EFBasicTutorial2.exe.config
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\bin\Debug\EFBasicTutorial2.exe
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\bin\Debug\EFBasicTutorial2.pdb
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\bin\Debug\EntityFramework.dll
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\bin\Debug\EntityFramework.xml
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\obj\Debug\EFBasicTutorial2.csproj.AssemblyReference.cache
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\obj\Debug\EFBasicTutorial2.csproj.CoreCompileInputs.cache
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\obj\Debug\EFBasicTutorial2.csproj.CopyComplete
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\obj\Debug\EFBasicTutorial2.exe
+D:\C#\Git\EF-6\Project-Demo2\EFBasicTutorial2\EFBasicTutorial2\obj\Debug\EFBasicTutorial2.pdb
