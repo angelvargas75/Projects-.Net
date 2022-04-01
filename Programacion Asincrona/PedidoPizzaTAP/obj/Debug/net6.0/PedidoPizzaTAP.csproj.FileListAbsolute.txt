@@ -1,0 +1,15 @@
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\bin\Debug\net6.0\PedidoPizzaTAP.exe
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\bin\Debug\net6.0\PedidoPizzaTAP.deps.json
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\bin\Debug\net6.0\PedidoPizzaTAP.runtimeconfig.json
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\bin\Debug\net6.0\PedidoPizzaTAP.dll
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\bin\Debug\net6.0\PedidoPizzaTAP.pdb
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\PedidoPizzaTAP.csproj.AssemblyReference.cache
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\PedidoPizzaTAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\PedidoPizzaTAP.AssemblyInfoInputs.cache
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\PedidoPizzaTAP.AssemblyInfo.cs
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\PedidoPizzaTAP.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\PedidoPizzaTAP.dll
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\refint\PedidoPizzaTAP.dll
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\PedidoPizzaTAP.pdb
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\PedidoPizzaTAP.genruntimeconfig.cache
+C:\Users\ANGEL\desktop\PedidoPizzaTAP\obj\Debug\net6.0\ref\PedidoPizzaTAP.dll
