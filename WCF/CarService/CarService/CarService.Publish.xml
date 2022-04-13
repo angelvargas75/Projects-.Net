@@ -1,0 +1,10 @@
+<publishData>
+  <publishTarget publishUrl="D:\Zero\">
+    <file relUrl="CarService.ProductService.svc" publishTime="04/12/2022 20:39:46" />
+    <file relUrl="Web.config" publishTime="04/12/2022 20:08:37" />
+    <file relUrl="CarServiceHost.svc" publishTime="04/12/2022 20:28:26" />
+    <file relUrl="bin/CarService.pdb" publishTime="04/12/2022 20:39:43" />
+    <file relUrl="bin/CarService.dll" publishTime="04/12/2022 20:39:43" />
+    <file relUrl="bin/CarService.dll.config" publishTime="04/12/2022 20:08:37" />
+  </publishTarget>
+</publishData>

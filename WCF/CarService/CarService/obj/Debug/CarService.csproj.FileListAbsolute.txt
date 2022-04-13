@@ -1,0 +1,7 @@
+C:\Users\ANGEL\source\repos\CarService\CarService\bin\Debug\CarService.dll.config
+C:\Users\ANGEL\source\repos\CarService\CarService\bin\Debug\CarService.dll
+C:\Users\ANGEL\source\repos\CarService\CarService\bin\Debug\CarService.pdb
+C:\Users\ANGEL\source\repos\CarService\CarService\obj\Debug\CarService.csproj.AssemblyReference.cache
+C:\Users\ANGEL\source\repos\CarService\CarService\obj\Debug\CarService.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL\source\repos\CarService\CarService\obj\Debug\CarService.dll
+C:\Users\ANGEL\source\repos\CarService\CarService\obj\Debug\CarService.pdb
